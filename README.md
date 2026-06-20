@@ -41,7 +41,7 @@ Analisis ini menggunakan gabungan data historis perjalanan dari **Juni 2013 hing
     *   **Member:** 66,7% (36.633.856 perjalanan) — Dominan karena frekuensi penggunaan berulang yang tinggi.
     *   **Casual:** 33,3% (18.253.682 perjalanan).
 
-*Catatan: Pembersihan data melibatkan penghapusan data durasi perjalanan di atas 24 jam (asumsi galat sistem) dan mempertahankan durasi di bawah 2 menit untuk melacak user experience awal.*
+*Catatan: Link data: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ---
 
